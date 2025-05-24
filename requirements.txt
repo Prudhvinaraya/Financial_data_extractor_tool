@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+requests
+langchain
+langchain-nvidia-ai-endpoints
+pandas
