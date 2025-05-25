@@ -39,3 +39,20 @@ This is a real-time **Streamlit web tool** that extracts **key financial metrics
   "eps_actual": "$2.17",
   "eps_expected": "$2.03"
 }
+
+
+
+**📂 Project Structure**
+
+Financial_data_extractor_tool/
+│
+├── main.py                  # Streamlit frontend
+├── data_extractor.py        # NVIDIA LLM API logic
+├── requirements.txt         # Project dependencies
+├── .streamlit/
+│   └── secrets.toml         # Your NVIDIA API key (not uploaded to GitHub)
+└── README.md                # You're here!
+
+
+
+
