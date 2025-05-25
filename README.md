@@ -1,6 +1,6 @@
 # 📊 Financial Data Extractor using NVIDIA LLM API 🔥
 
-This is a real-time **Streamlit web tool** that extracts **key financial metrics** like `Revenue` and `EPS` from any paragraph using **NVIDIA’s cutting-edge LLM (LLaMA-3/4)** via the `langchain-nvidia-ai-endpoints` API.
+This is a real-time **Streamlit web tool** that extracts **key financial metrics** like `Revenue` and `EPS` from any paragraph using **NVIDIA’s cutting-edge LLM Meta's llama-4-maverick-17b-128e-instruct** via the `langchain-nvidia-ai-endpoints` API.
 
 > Built for demoing fast, practical GenAI applications.  
 > Ideal for extracting insights from earnings reports, news articles, and analyst briefs.
