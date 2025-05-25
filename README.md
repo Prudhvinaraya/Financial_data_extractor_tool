@@ -9,7 +9,7 @@ This is a real-time **Streamlit web tool** that extracts **key financial metrics
 
 ## 🚀 Live App
 
-🔗 [Try the live demo on Streamlit →](https://your-deployed-app.streamlit.app)
+🔗 [Try the live demo on Streamlit →]([https://your-deployed-app.streamlit.app](https://financialdataextractortool-prudhvi.streamlit.app/))
 
 ---
 
